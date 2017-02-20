@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>ZombieWaveostatecznie.png</file>
+        <file>3 poprawione.png</file>
+        <file>Pochodnia.png</file>
+        <file>Strzala.png</file>
+        <file>zycie.png</file>
+        <file>Przeciwnik.png</file>
+        <file>postać 1.png</file>
+        <file>postać 2.png</file>
+        <file>postać 3.png</file>
+        <file>postać 4.png</file>
+        <file>Przeciwnik 2.png</file>
+        <file>Przeciwnik 3.png</file>
+        <file>postać 41.jpg</file>
+        <file>postać 31.png</file>
+    </qresource>
+</RCC>
